@@ -1,3 +1,3 @@
 image: nginx:latest
 script:
-  - echo hello docker now
+  - echo hello docker now quoted
