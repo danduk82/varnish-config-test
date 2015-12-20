@@ -1,3 +1,3 @@
 image: nginx:latest
 script:
-  - echo hello docker world
+  - echo hello docker world now
