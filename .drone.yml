@@ -5,4 +5,5 @@ publish:
   docker:
     username: procrastinatio
     password: toto69
+    email: procrastinatio@gmail.com
     repo: procrastinatio/varnish-config-test
