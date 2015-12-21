@@ -1,2 +1,3 @@
 # varnish-config-test
-demo
+
+Testing [drone](https://drone.io/)
