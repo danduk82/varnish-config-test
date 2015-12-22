@@ -1,9 +1,0 @@
-image: nginx:latest
-script:
-  - echo hello docker now quoted
-publish:
-  docker:
-    username: procrastinatio
-    password: toto69
-    email: procrastinatio@gmail.com
-    repo: procrastinatio/varnish-config-test
