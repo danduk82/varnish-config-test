@@ -1,0 +1,5 @@
+# varnish packages come from C2C repository
+Explanation: profiles_chtopo: varnish
+Package: varnish varnish-dbg varnish-doc libvarnishapi-dev libvarnishapi1
+Pin: release o=Camptocamp
+Pin-Priority: 1001
